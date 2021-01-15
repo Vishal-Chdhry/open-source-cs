@@ -8,6 +8,7 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
 :white_check_mark: |[Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
 :white_check_mark: |[Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
+:black_square_button:|[6.0002 Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/) | MIT | 8 weeks | 2-4 hours/week | self-paced | none
 
 ## Programming
 
@@ -27,6 +28,7 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 
 Status | Courses | School | Duration | Effort | Frequency | Prerequisites
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
+:black_square_button:|[6.042J Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | MIT | 13 weeks | 6-10 hours/week | self-paced | none
 :black_square_button:|[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
 :black_square_button:|[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks | 6-10 hours/week | self-paced | Calculus 1A: Differentiation
 :black_square_button:|[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)| MIT | 8 weeks | 6-10 hours/week | self-paced | Calculus 1B: Integration
