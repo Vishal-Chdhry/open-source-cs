@@ -9,7 +9,6 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 :ballot_box_with_check: |[Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
 :ballot_box_with_check: |[Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
 :ballot_box_with_check:|[6.0002 Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/) | MIT | 8 weeks | 2-4 hours/week | self-paced | none
-:black_square_button:|[Introduction to Logic](https://www.coursera.org/learn/logic-introduction)  | Stanford | 10 weeks | 4-8 hours/week | self-paced | none
 
 ## Programming
 
