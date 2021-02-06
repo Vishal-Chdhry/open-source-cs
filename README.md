@@ -1,6 +1,6 @@
 # The Open Source Computer Science Degree
 
-This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
+This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education. [Video discussing this curriculum](https://youtu.be/NyOvFSP_IpQ)
 
 ## Computer Science Basics
 
@@ -29,7 +29,7 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 
 ## Math
 
-Status | Courses | School | Duration | Effort | Frequency | Prerequisites
+Status | Courses | School | Duration | Effort | Frequency | Prerequisites  
 :--: | :--: | :--: | :--: | :--: | :--: | :--:
 :black_square_button:|[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | self-paced | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
 :black_square_button:|[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks | 6-10 hours/week | self-paced | Calculus 1A: Differentiation
